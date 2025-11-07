@@ -11,4 +11,8 @@ class Animal {
   public static String hunt() {
     return "This animal is hunting";
   }
+
+  public static String migrate() {
+    return "This animal is migrating";
+  }
 }
